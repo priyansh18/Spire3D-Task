@@ -1,0 +1,52 @@
+.btn {
+  margin: 30px;
+  margin-top: 1rem;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  border: black;
+  
+}
+
+.top-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row{
+  text-align: center;
+  justify-content: center;
+}
+
+.col{
+  text-align: center;
+  margin: auto;
+}
+
+#list{
+  align-items: center;
+  margin: auto;
+  
+}
+
+.left {
+  border: 3px solid black;
+  display: flexbox;
+  height: 700px;
+  align-items: center;
+  justify-content: center;
+}
+
+.right {
+  align-content: center;
+  margin: auto;
+  padding-left: 10px;
+  
+}
+
+.h2 {
+  align-items: center;
+}
